@@ -1,0 +1,42 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3px 10px;
+}
+.navbar a {
+  text-decoration: none;
+  color: inherit;
+}
+.navlogo img {
+  margin-left: 40px;
+  margin-top: 10px;
+}
+.navbar ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+.navbar ul li {
+  list-style: none;
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background-color: rgba(239, 151, 9, 0.947);
+  padding: 2px 12px;
+  border-radius: 50px;
+  width: 43px;
+  margin-right: 40px;
+}
+.cart img {
+  width: 20px;
+  margin-top: 5px;
+}

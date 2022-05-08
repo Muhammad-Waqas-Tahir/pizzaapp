@@ -1,0 +1,25 @@
+.add h5 {
+  font-family: 'Poppins', sans-serif;
+}
+.addbutton {
+  border: none;
+  background-color: rgba(239, 151, 9, 0.947);
+  color: #ffffff;
+  padding: 3px 12px;
+  /* width: 20%; */
+  border-radius: 30px;
+  font-family: 'Poppins', sans-serif;
+  cursor: pointer;
+  font-weight: bold;
+}
+.isadding {
+  background-color: rgb(13, 149, 54);
+  border: none;
+  color: #ffffff;
+  padding: 3px 12px;
+  /* width: 25%; */
+  border-radius: 30px;
+  font-family: 'Poppins', sans-serif;
+  cursor: pointer;
+  font-weight: bold;
+}
